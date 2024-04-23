@@ -1,12 +1,15 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=Lee%20Junseo&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=Welcome!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Hello, I'm Lee Junseo</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        Interested in Backend. Especially, server&Data&Cloud
-    </div> 
+        <p>Seoul National University of Science and Technology, ITM (2020.03. ~ ) </p>
+        <P>Northumbria University(NewCastle, UK), ITMB (2020.03. ~ )</P>
+        <p>Interested in Backend. Especially, server&Data&Cloud</p>
+        
+
 </div>
 
 <div align="center">
