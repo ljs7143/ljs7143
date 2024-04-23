@@ -24,6 +24,15 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <br/></div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Prize </h2>
+    <div align="center">
+      
+        <p>Grand Prize, ITM IT Service Competition(Develop section) - NewsEasy(Seoultech ITM,2023)</p>
+        <p>Top100, GDSC Solution Challenge2024(Google,2024)</p>
+        <p>Encouragement Award, Hackathon to solve social problems - PathPal(The Korean Association for Policy Studies,2024)</p>
+    </div>
+</div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
