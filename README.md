@@ -38,13 +38,14 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎨 Extracurricular Activities</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">GDSC(Google Developer Student Clubs) Seoul National University of Science and Technology 3rd Core (2023.08. ~ )</span></p>
-        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">ACC(AWS Cloud Club) SeoulTech 1st Member (2023.07. ~ ))</span></p>
+        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">ACC(AWS Cloud Club) SeoulTech 1st Member (2023.07. ~ )</span></p>
     </div>
 </div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Prize</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Gold Prize</span>, ST Pathfinder(Develop section) - To The Gem(Seoultec,2021)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Grand Prize</span>, ITM IT Service Competition(Develop section) - NewsEasy(Seoultech ITM,2023)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Top100</span>, GDSC Solution Challenge2024(Google,2024)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Encouragement Award</span>, Hackathon to solve social problems - PathPal(The Korean Association for Policy Studies,2024)</p>
