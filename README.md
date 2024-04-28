@@ -51,7 +51,7 @@
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Gold Prize</span>, ST Pathfinder(Develop section) - To The Gem(Seoultec,2021)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Grand Prize</span>, ITM IT Service Competition(Develop section) - NewsEasy(Seoultech ITM,2023)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Top100</span>, GDSC Solution Challenge2024(Google,2024)</p>
-        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Encouragement Award</span>, Hackathon to solve social problems - PathPal(The Korean Association for Policy Studies,2024)</p>
+        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Distinction Award</span>, Hackathon to solve social problems - PathPal(The Korean Association for Policy Studies,2024)</p>
     </div>
 </div>
 
