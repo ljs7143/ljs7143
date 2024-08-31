@@ -7,7 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <p>Seoul National University of Science and Technology, ITM (2020.03. ~ ) </p>
         <P>Northumbria University(NewCastle, UK), ITMB (2020.03. ~ )</P>
-        <p>Interested in Backend. Especially, server&Data&Cloud</p>
+        <p>Interested in Backend. Especially, Server&Data&Cloud</p>
         
 
 </div>
@@ -52,6 +52,13 @@
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Grand Prize</span>, ITM IT Service Competition(Develop section) - NewsEasy(Seoultech ITM,2023)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Top100</span>, GDSC Solution Challenge2024(Google,2024)</p>
         <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">Distinction Award</span>, Hackathon to solve social problems - PathPal(The Korean Association for Policy Studies,2024)</p>
+    </div>
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certification</h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        <p><span style="font-family: 'Comic Sans MS', cursive; font-size: 14px;">AWS Certified Solutions Architect - Associate</p>
     </div>
 </div>
 
